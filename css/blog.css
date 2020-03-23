@@ -1,0 +1,21 @@
+.news-box img{
+  width:100%;
+  margin-bottom: 3vw;
+}
+
+.news-box{
+  padding: 5%;
+  margin: 0;
+}
+
+.news-box p{
+  text-align: justify;
+  font-size: 1.7vw;
+}
+
+.news-box button{
+  margin-bottom: 2vw;
+  font-size: 1.7vw;
+  padding: 1vw 1.4vw;
+  border-width: thin;
+}

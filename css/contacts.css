@@ -1,0 +1,25 @@
+form{
+  padding: 10%!important;
+  margin: 0!important;
+  background: linear-gradient(to bottom, #fff, #88898c);
+}
+
+
+.form-check{
+  padding-left: 35px;
+  padding-right: 0;
+}
+
+.main-box{
+  padding: 10%;
+  padding-bottom: 0;
+}
+
+.fa-envelope, .fa-phone, .fa-map-marker-alt{
+  font-size: 3.6em;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+}
+footer{
+  background-color: #88898c;
+}

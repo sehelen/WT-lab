@@ -1,0 +1,27 @@
+.alert{
+  width: 85%;
+  margin: 0 auto;
+  }
+
+.big{
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10%;
+}
+
+.mini p{
+  text-align: justify;
+}
+
+.fa-camera, .fa-book, .fa-chart-area, .fa-clipboard-list, .fa-globe, .fa-edit{
+  font-size: 3.6em;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+}
+
+hr{
+  border-top: 2px dashed silver;
+  width: 85%;
+  margin-top: 0.3em;
+  margin-bottom: 1em;
+}

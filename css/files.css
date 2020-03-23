@@ -1,0 +1,29 @@
+body{
+  background: linear-gradient(to bottom, #fff, #88898c);
+}
+
+h1{
+  padding: 5vw 0vw 0vw 5vw;
+}
+
+.listBtns{
+  margin-bottom: 5vw;
+}
+
+.fileList{
+  padding: 0 0 5vw 5vw;
+  margin-bottom: 10vw;
+}
+
+.btn{
+  margin-top: 1vw;
+  width: 16vw;
+}
+
+a{
+   color: #293c73;
+}
+
+.listLine b{
+  text-transform: uppercase;
+}

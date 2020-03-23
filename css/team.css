@@ -1,0 +1,66 @@
+body{
+  background-color: #88898c;
+}
+h1{
+  padding-top: 6%;
+  font-size: 5vw;
+  background-color: #fff;
+  margin:0;}
+
+.carousel-inner{
+  background: linear-gradient(to bottom, #fff, #88898c);
+}
+
+ .carousel-item img{
+  border-radius: 3%;
+  height: 22vw;
+}
+
+.carousel-item{
+  height: 47vw;
+  padding: 5%;
+}
+
+.carousel-item h4{
+  margin-top: 2vw;
+  margin-bottom: 0.5vw;
+  font-size: 3vw;
+}
+
+.carousel-item h6{
+  margin-bottom: 0.5vw;
+  font-size: 1.5vw;
+}
+
+.social{
+  padding: 0;
+}
+
+.social a{
+  font-size: 1vw;
+  padding:0 0.5vw;
+  color: #343a40;
+}
+
+
+.text-box {
+  padding: 5%;
+}
+
+.text-box h3{
+  font-size: 4vw;
+}
+.text-box p{
+  font-size: 2vw;
+}
+
+.item-center{
+  margin: 0;
+}
+
+
+ @media (max-width: 576px){
+  .carousel-item{
+    height: 60vw;
+  }
+}
